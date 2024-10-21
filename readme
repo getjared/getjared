@@ -26,7 +26,7 @@ and here is where we encounter the trouble with wayland: it breaks apis, which v
 
 § quoting linus torvalds:
 
-    the biggest thing any program can do is not the technical details of the program itself; it’s how useful the program is to users.                                                                                                                               |
+    the biggest thing any program can do is not the technical details of the program itself; it’s how useful the program is to users.
     so any time any program (like the kernel or any other project) breaks the user experience, to me, that’s the absolute worst failure that a software project can make.
 
 
