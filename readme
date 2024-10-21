@@ -22,11 +22,14 @@ the above provides insight into the pros and cons of wayland and x-windowing. fr
 
 and here is where we encounter the trouble with wayland: it breaks apis, which violates the very first and primary rule of linux. it breaks user space.
 
+
+
 § quoting linus torvalds:
 
-    |the biggest thing any program can do is not the technical details of the program itself; it’s how useful the program is to users.|
-    |                                                                                                                                 |
-    |so any time any program (like the kernel or any other project) breaks the user experience, to me, that’s the absolute worst failure that a software project can make.|
+    the biggest thing any program can do is not the technical details of the program itself; it’s how useful the program is to users.                                                                                                                               |
+    so any time any program (like the kernel or any other project) breaks the user experience, to me, that’s the absolute worst failure that a software project can make.
+
+
 
 without the users, any project is nothing. it is meaningless without a user base because any project is meant to be useful and helpful for those who use it.
 
