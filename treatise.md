@@ -43,7 +43,7 @@ Let us speak of security, for here lies another tale of misconception. They clai
 
 Consider the user, dear reader, for without them, our creations are as hollow as an empty vessel. When Wayland breaks the tools of old - the screenshots, the sharing of screens, the management of windows - they speak not of their own failings, but point fingers at others, like a poor craftsman blaming his tools.
 
-## ℭ𝔬𝔫𝔠𝔩𝔲𝔰𝔦𝔬
+## ℭ𝔬𝔫𝔠𝔩𝔲𝔰𝔦𝔬𝔫
 
 The trouble with Wayland, I submit to thee, lies not in its ambitions but in its disregard for the sacred covenant between creator and user. It breaks not just tools, but trust; not just protocols, but promises.
 
