@@ -18,6 +18,6 @@ Hearken, dear visitor, to a matter of great contemplation. As a sage of the bina
 
 For those seeking enlightenment on this matter, I direct thee to mine treatise:
 
-*[A Philosophical Discourse on the Nature of Wayland]((https://github.com/getjared/getjared/blob/main/treatise.md))*
+*[A Philosophical Discourse on the Nature of Wayland](https://github.com/getjared/getjared/blob/main/treatise.md)*
 
 </div>
