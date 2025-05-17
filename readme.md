@@ -12,13 +12,3 @@ I believe in doing things **the hard way** — not because it’s trendy, but be
 I use Arch Linux. Not because I want to brag, but because Stockholm Syndrome is real.
 
 Most of my code is written in **C** (because who needs safety?) or **Python** (for when I want my code to at least pretend to like me). I build my systems from scratch, down to the dotfiles, because every dependency is a potential betrayal.
-
-## 🧠 Why I Program
-
-Because building things from nothing is the closest you get to sorcery in the modern world — and also because emotionally bonding with a kernel panic at 2am is cheaper than therapy.
-
-Programming is how I make sense of the chaos. Sometimes I automate things. Sometimes I break them just to see how deep the rabbit hole goes. Occasionally, I fix them. All the time, I learn.
-
-## 🎬 Favorite Movie
-
-*The Princess Bride* — because no matter how many systems crash or segfault, **true love (and `fork()`) will always find a way.**
